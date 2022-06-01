@@ -1,6 +1,6 @@
 ## Save 👋 I'm Vitor Rondon
 
-- 🔭 I’m currently working with PHP, Angular, Mysql
+- 🔭 I’m currently working with Flutter, Dart
 - 🌱 I’m currently learning Flutter, Dart
 
  <div>
